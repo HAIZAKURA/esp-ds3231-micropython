@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["ds3231.py", "github:HAIZAKURA/esp-ds3231-micropython/ds3231.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
